@@ -1,1 +1,1 @@
-Projeto de vendedores em ASP.NET
+Projeto de um sistema de vendedores em ASP.NET Core
